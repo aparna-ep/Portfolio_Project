@@ -1,0 +1,28 @@
+body {
+    background-color: #e4d9b4;
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin: 50px;
+    font-size: larger;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url('../Portfoliobg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1{
+    color: rgb(241, 215, 153);
+}
+h2{
+    color: rgb(155, 233, 233);
+
+}
+h3{
+    color: rgb(241, 108, 241);
+}
+a{
+    color: darkseagreen;
+}
